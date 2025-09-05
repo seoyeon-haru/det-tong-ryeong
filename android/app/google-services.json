@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1094819422104",
+    "project_id": "det-tonryong",
+    "storage_bucket": "det-tonryong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094819422104:android:e41eb082c81cda071655ed",
+        "android_client_info": {
+          "package_name": "com.example.team1_det_tonryong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094819422104-376563ihj2ef5nadudn878nmorklk39t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.team1_det_tonryong",
+            "certificate_hash": "c803f184c4c1ae02e6c6f8ef0edf2c399343447a"
+          }
+        },
+        {
+          "client_id": "1094819422104-8k03qujl9nhr76sp1hdr7ktfvofhoepi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.team1_det_tonryong",
+            "certificate_hash": "3a98849ca2760edc7cfdd84a19fc98a842696ee9"
+          }
+        },
+        {
+          "client_id": "1094819422104-ue012hifitava4u8s8adifbl1kved0dt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.team1_det_tonryong",
+            "certificate_hash": "cb73b1454ab7784942c45c3d7e33d223aa9cc516"
+          }
+        },
+        {
+          "client_id": "1094819422104-reikr2tauchncg5p69lbki4pv8lm3vep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlPDPFSSrxj0UM8QjJeOwqi-QjM7VoKpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094819422104-reikr2tauchncg5p69lbki4pv8lm3vep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094819422104-2sbdsqlvchtsm9927rbch7j264l5r3ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.team1DetTonryong"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
